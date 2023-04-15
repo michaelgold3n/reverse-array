@@ -1,8 +1,3 @@
-/*HW Assignment_B.Green.cpp
-Bryce Green
-3/14/2021
-Version 1.2
-The program takes values that have been defined in an array and reverses them and outputs them to the user.*/
 
 #include <iostream>
 using namespace std;
